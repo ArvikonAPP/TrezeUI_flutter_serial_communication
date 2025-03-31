@@ -51,7 +51,7 @@ class _MyAppState extends State<MyApp> {
 
   _connectButtonPressed(DeviceInfo deviceInfo) async {
     bool isConnectionSuccess =
-        await _flutterSerialCommunicationPlugin.connect(deviceInfo, 115200);
+        await _flutterSerialCommunicationPlugin.connect(deviceInfo, 230400);
     debugPrint("Is Connection Success:  $isConnectionSuccess");
   }
 
