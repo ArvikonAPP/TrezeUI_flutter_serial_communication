@@ -1,3 +1,7 @@
+## DEPRECATED
+
+This library is deprecated. 
+
 ## About Flutter Serial Communication
 
 This library aims to ease Flutter Developers to do serial communcation with their peripherals without too much hassle.
