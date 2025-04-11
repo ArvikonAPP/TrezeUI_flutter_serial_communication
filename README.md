@@ -1,6 +1,6 @@
 ## DEPRECATED
 
-This library is deprecated. 
+This library is deprecated. On 11/04/2025
 
 ## About Flutter Serial Communication
 
